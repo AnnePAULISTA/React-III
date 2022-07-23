@@ -1,0 +1,26 @@
+.sobre {
+    display: flex;
+    margin: 40px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    width: 50%;
+    margin-top: 1px;
+}
+
+.sobre img {
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.sobre h2 {
+    font-size: 30px;
+    color:#5c1e7c;
+}
+
+.sobre p {
+    font-size: 20px;
+    text-align: center;
+}

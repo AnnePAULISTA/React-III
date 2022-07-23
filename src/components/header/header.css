@@ -1,0 +1,19 @@
+.header {
+  padding: 80px;
+  text-align: center;
+  color: white;
+  background: #5c1e7c;
+  background-size: cover;
+  height: 600px;
+  margin-bottom: 100px;
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.header img {
+  margin-top: 10px;
+  width: 40vw;
+  height: 60vh;
+}
