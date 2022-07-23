@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { BsArrowReturnRight } from "react-icons/bs";
-import Header from "../../components/Header/Header";
+import Header from "../../components/header/Header";
 import image from "../../assets/portifolio.svg";
 import axios from "axios";
 import Footer from "../../components/footer/Footer";
